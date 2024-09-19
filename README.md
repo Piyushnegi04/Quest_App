@@ -8,7 +8,7 @@ A **Quest App** developed using Dart, designed to manage and track quests. The a
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Author](#devloper)
+- [Devloper](#devloper)
 
 ## Features
 - **Quest Management**: Create and manage a list of quests.
